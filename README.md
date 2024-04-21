@@ -139,6 +139,7 @@ endmodule
 
 # 4 bit multiplier:
 
+
 ![image](https://github.com/Bharathchows18/VLSI-LAB-EXP-3/assets/161430676/71946555-9cc4-4e11-8013-f9e90d4d057f
 
 # Result:
